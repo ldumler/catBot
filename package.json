@@ -1,0 +1,8 @@
+{
+  "name": "purrBot",
+  "version": "1.0.0",
+  "description": "Your very own virtual pet cat",
+  "main": "bot.js",
+  "author": "Lauren Dumler",
+  "dependencies": {}
+}
